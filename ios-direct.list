@@ -1,12 +1,15 @@
 # UPDATED: 2206211028
 
 DOMAIN, www.189.cn
+DOMAIN, amap.com
+DOMAIN, page.amap.com
 DOMAIN, app.csair.com
 DOMAIN, appleimap.163.com
 DOMAIN, captive.apple.com
 DOMAIN, m.client.10010.com
 DOMAIN, mobile.ximalaya.com
 DOMAIN, portal.linkbroad.com
+
 
 DOMAIN-KEYWORD, /track/playpage/
 DOMAIN-KEYWORD, track/play
@@ -24,7 +27,6 @@ DOMAIN-SUFFIX, imagev2.xmcdn.com
 DOMAIN-SUFFIX, linkbroad.com
 DOMAIN-SUFFIX, itunes.apple.com
 DOMAIN-SUFFIX, jd.com
-DOMAIN-SUFFIX, amap.com
 DOMAIN-SUFFIX, music.126.net
 DOMAIN-SUFFIX, icloud.com
 DOMAIN-SUFFIX, qy.net
