@@ -7,6 +7,7 @@ DOMAIN, app.csair.com
 DOMAIN, appleimap.163.com
 DOMAIN, captive.apple.com
 DOMAIN, m.client.10010.com
+DOMAIN, m.taobao.com
 DOMAIN, mobile.ximalaya.com
 DOMAIN, portal.linkbroad.com
 
@@ -16,7 +17,6 @@ DOMAIN-KEYWORD, track/play
 DOMAIN-KEYWORD, track/pay
 
 DOMAIN-SUFFIX, 163yun.com
-DOMAIN-SUFFIX, m.taobao.com
 DOMAIN-SUFFIX, aliyundrive.com
 DOMAIN-SUFFIX, iqiyi.com
 DOMAIN-SUFFIX, music.163.com
