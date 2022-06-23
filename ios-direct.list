@@ -57,3 +57,20 @@ USER-AGENT, SmartDrive
 USER-AGENT, WeChat*
 USER-AGENT, MicroMessenger
 USER-AGENT, NeteaseMusic
+
+
+# updated 2206232350
+IP-CIDR, 101.32.133.209/32
+IP-CIDR, 157.148.59.242/32
+IP-CIDR, 157.255.174.101/32
+IP-CIDR, 162.62.163.84/32
+IP-CIDR, 203.205.219.56/32
+IP-CIDR, 45.113.69.24/32
+DOMAIN, app.yinxiang.com
+DOMAIN, cdke.youdao.com
+DOMAIN, dict.youdao.com
+DOMAIN, mdap.alipay.com
+DOMAIN, szlong.weixin.qq.com
+DOMAIN, wow.youdao.com
+DOMAIN-SUFFIX, gov.cn
+
