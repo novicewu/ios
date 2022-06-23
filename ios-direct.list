@@ -10,7 +10,10 @@ DOMAIN, m.client.10010.com
 DOMAIN, m.taobao.com
 DOMAIN, mobile.ximalaya.com
 DOMAIN, portal.linkbroad.com
+DOMAIN, qy.net
+DOMAIN, iqiyi.com
 
+DOMAIN, app.ikea.cn
 
 DOMAIN-KEYWORD, /track/playpage/
 DOMAIN-KEYWORD, track/play
@@ -18,21 +21,21 @@ DOMAIN-KEYWORD, track/pay
 
 DOMAIN-SUFFIX, 163yun.com
 DOMAIN-SUFFIX, aliyundrive.com
-DOMAIN-SUFFIX, iqiyi.com
+
+DOMAIN-SUFFIX, music.126.net
 DOMAIN-SUFFIX, music.163.com
+
 DOMAIN-SUFFIX, bilibili.com
 DOMAIN-SUFFIX, icloud-content.com
 DOMAIN-SUFFIX, aod.cos.tx.xmcdn.com
 DOMAIN-SUFFIX, imagev2.xmcdn.com
-DOMAIN-SUFFIX, linkbroad.com
 DOMAIN-SUFFIX, itunes.apple.com
 DOMAIN-SUFFIX, jd.com
-DOMAIN-SUFFIX, music.126.net
 DOMAIN-SUFFIX, icloud.com
-DOMAIN-SUFFIX, qy.net
+
 DOMAIN-SUFFIX, passport.ximalaya.com
 DOMAIN-SUFFIX, passportws.ximalaya.com
-DOMAIN-SUFFIX, app.ikea.cn
+
 DOMAIN-SUFFIX, szextshort.weixin.qq.com
 DOMAIN-SUFFIX, szminorshort.weixin.qq.com
 DOMAIN-SUFFIX, szshort.weixin.qq.com
