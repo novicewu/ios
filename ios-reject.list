@@ -61,7 +61,7 @@ URL-REGEX, ^http:\/\/xdcs-collector\.ximalaya\.com\/api\/v1\/statistics$
 URL-REGEX, ^http:\/\/xdcs-collector\.ximalaya\.com\/api\/v1\/statistics$
 URL-REGEX, ^http:\/\/xdcs-collector\.ximalaya\.com\/nyx\/v3\/track\/count\/ios$
 
-# updated, 2206232352
+# updated, 2207012001
 DOMAIN-SUFFIX, access1.tpns.tencent.com
 DOMAIN-SUFFIX, acs.m.taobao.com
 DOMAIN-SUFFIX, adashx.ut.amap.com
@@ -75,12 +75,11 @@ DOMAIN-SUFFIX, backendmarket.youdao.com
 DOMAIN-SUFFIX, amazon-adsystem.com
 DOMAIN-SUFFIX, cdn001.yinxiang.com
 DOMAIN, ct-bjs-sgh-00001.oos-cn-180622.ctyunapi.cn
+DOMAIN-SUFFIX, gala.convection.cn
 DOMAIN, eco.taobao.com
 DOMAIN, enter.gd189.cn
 DOMAIN-SUFFIX, guid.tpns.tencent.com
 IP-CIDR, 180.153.140.201/32
-IP-CIDR, 180.153.140.202/32
-URL-REGEX, ^http:\/\/180\.153\.250\.237\/incentive\/subapp\/freePage\/ts-1655783404867\?appid=1463&device=iPhone&network=WIFI&operator=3&positionName=free_album_list_lite&uid=72379163&version=3\.0\.12&xt=1655783404867$
 IP-CIDR, 180.153.250.238/32
 IP-CIDR, 180.153.250.238/32
 IP-CIDR, 180.153.250.238/32
@@ -90,17 +89,25 @@ IP-CIDR, 180.153.250.244/32
 IP-CIDR, 61.172.194.185/32
 IP-CIDR, 61.172.194.196/32
 IP-CIDR, 61.172.194.197/32
+DOMAIN-SUFFIX, amdc.m.taobao.com
 DOMAIN-SUFFIX, aoscdn.amap.com
 DOMAIN-SUFFIX, aososs.oss-cn-beijing.aliyuncs.com
-URL-REGEX, ^http:\/\/gslbtx\.ximalaya\.com\/linkeye-cloud\/checkIP\?ip=198\.18\.1\.112&domain=search\.ximalaya\.com$
 DOMAIN-SUFFIX, gslbtx.ximalaya.com
 DOMAIN-SUFFIX, log-verify.mob.com
 DOMAIN-SUFFIX, optimus-ads.amap.com
+DOMAIN-SUFFIX, shuzilm.cn
+DOMAIN-SUFFIX, is4-ssl.mzstatic.com
 DOMAIN-SUFFIX, log.tpns.tencent.com
 DOMAIN-SUFFIX, mads.amazon-adsystem.com
 DOMAIN-SUFFIX, oimagea2.ydstatic.com
 DOMAIN-SUFFIX, oimagec7.ydstatic.com
 DOMAIN, reportappgo.189.cn
+DOMAIN-SUFFIX, task.hzbxm.com
 DOMAIN-SUFFIX, tls-amap.dingtalk.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, ulogs.umengcloud.com
 DOMAIN-SUFFIX, wss.app.yinxiang.com
+DOMAIN-SUFFIX, qchannel01.cn
 DOMAIN-SUFFIX, ydpushserver.youdao.com
+
+
