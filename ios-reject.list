@@ -67,9 +67,9 @@ DOMAIN-SUFFIX, acs.m.taobao.com
 DOMAIN-SUFFIX, adashx.ut.amap.com
 DOMAIN-SUFFIX, adtrack.xiaojukeji.com
 DOMAIN-SUFFIX, aid.m.taobao.com
-DOMAIN-SUFFIX, appfuwu.189.cn
-DOMAIN-SUFFIX, appgo.189.cn
-DOMAIN-SUFFIX, appgologin.189.cn
+#DOMAIN-SUFFIX, appfuwu.189.cn
+#DOMAIN-SUFFIX, appgo.189.cn
+#DOMAIN-SUFFIX, appgologin.189.cn
 DOMAIN-SUFFIX, awaken.amap.com
 DOMAIN-SUFFIX, backendmarket.youdao.com
 DOMAIN-SUFFIX, amazon-adsystem.com
